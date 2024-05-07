@@ -11,23 +11,23 @@ Version: 1.1.0
   --body: #fff;
   --black: #000;
   --white: #fff;
-  --theme: #166FD3;
+  --theme: #4399FF;
   --theme2: #4E29B7;
   --header: #222222;
-  --base: #166FD3;
+  --base: #4399FF;
   --text: #5E5F63;
   --text2: #8A8C94;
   --border: #EEEFF4;
   --border2: #D7D7D7;
-  --button: #1C2539;
+  --button: #2B2B2B;
   --button2: #030734;
   --ratting: #F09815;
   --bg: #F6F3EE;
   --bg2: #F6F6F6;
   --bg3: #F5F6FD;
-  --bg4: #020001;
+  --bg4: #2B2B2B;
   --bg5: #F8F8F8;
-  --bg6: #020626;
+  --bg6: #0F2BAC;
   --bg7: #EDEEEE;
   --color-gradient-1: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 19.36%, rgba(15, 116, 230, 0.55) 71.26%, #166FD3 100%);
   --color-gradient-2: linear-gradient(180deg, rgba(0, 0, 0, 0.31) 0%, rgba(0, 0, 0, 0.78) 100%);
@@ -3452,10 +3452,6 @@ input.main-search-input::placeholder {
   opacity: 1;
 }
 
-.feature-icon-box-area{
-  background-image: url(assets/img/line.png); 
-  background-size:contain;
-}
 
 .feature-icon-box-area-2 {
   position: relative;
