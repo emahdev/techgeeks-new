@@ -3452,6 +3452,11 @@ input.main-search-input::placeholder {
   opacity: 1;
 }
 
+.feature-icon-box-area{
+  background-image: url(assets/img/line.png); 
+  background-size:contain;
+}
+
 .feature-icon-box-area-2 {
   position: relative;
 }
