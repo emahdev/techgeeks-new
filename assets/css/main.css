@@ -226,7 +226,7 @@ h6 {
   margin: 0px;
   padding: 0;
   color: var(--header);
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   transition: all 0.4s ease-in-out;
 }
 
@@ -464,7 +464,7 @@ p {
   height: 70px;
   border: 0;
   padding: 0 50px;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   background: transparent;
   font-size: 25px;
   color: var(--header);
@@ -587,7 +587,7 @@ input.main-search-input::placeholder {
   color: var(--theme);
 }
 .section-title h2 {
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 .section-title.style-2 span {
   color: var(--theme2);
