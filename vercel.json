@@ -21,9 +21,7 @@
       { "source": "/implementacion-de-soluciones-de-software.html", "destination": "/servicios/implementacion-de-soluciones-de-software", "permanent": true },
       { "source": "/asesoria-y-consultoria.html", "destination": "/servicios/asesoria-y-consultoria", "permanent": true }
     ],
-    "routes": [
-      { "handle": "filesystem" },
-      { "src": "/(.*)", "status": 404, "dest": "/index.html" }
-    ]
+    "cleanUrls": true,
+    "trailingSlash": false
   }
   
