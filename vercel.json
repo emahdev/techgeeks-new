@@ -9,7 +9,7 @@
       { "source": "/servicios/control-inteligente", "destination": "/servicios/control-inteligente.html" },
       { "source": "/servicios/implementacion-de-soluciones-de-software", "destination": "/servicios/implementacion-de-soluciones-de-software.html" },
       { "source": "/servicios/asesoria-y-consultoria", "destination": "/servicios/asesoria-y-consultoria.html" },
-      { "source": "/(.*)", "destination": "/index.html" }  // Regla catch-all para redirigir a index.html
+      { "source": "/(.*)", "destination": "/index.html" }
     ],
     "redirects": [
       { "source": "/nosotros.html", "destination": "/nosotros", "permanent": true },
