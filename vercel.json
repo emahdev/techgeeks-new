@@ -1,7 +1,7 @@
 {
     "rewrites": [
-        { "source": "/nosotros", "destination": "/nosotros/index.html" },
-        { "source": "/servicios", "destination": "/servicios/index.html" },
+        { "source": "/nosotros", "destination": "/nosotros/" },
+        { "source": "/servicios", "destination": "/servicios/" },
         { "source": "/servicios/instalacion-y-mantenimiento-de-redes", "destination": "/servicios/instalacion-y-mantenimiento-de-redes.html" },
         { "source": "/servicios/gestion-y-mantenimiento-de-sistemas", "destination": "/servicios/gestion-y-mantenimiento-de-sistemas.html" },
         { "source": "/servicios/desarrollo-de-soluciones-de-software", "destination": "/servicios/desarrollo-de-soluciones-de-software.html" },
@@ -9,11 +9,11 @@
         { "source": "/servicios/control-inteligente", "destination": "/servicios/control-inteligente.html" },
         { "source": "/servicios/implementacion-de-soluciones-de-software", "destination": "/servicios/implementacion-de-soluciones-de-software.html" },
         { "source": "/servicios/asesoria-y-consultoria", "destination": "/servicios/asesoria-y-consultoria.html" },
-        { "source": "/(.*)", "destination": "/index.html" }
+        { "source": "/(.*)", "destination": "/" }
     ],
     "redirects": [
         { "source": "/nosotros.html", "destination": "/nosotros", "permanent": true },
-        { "source": "/servicios.html", "destination": "/servicios", "permanent": true },
+        { "source": "/servicios", "destination": "/servicios", "permanent": true },
         { "source": "/instalacion-y-mantenimiento-de-redes.html", "destination": "/servicios/instalacion-y-mantenimiento-de-redes", "permanent": true },
         { "source": "/gestion-y-mantenimiento-de-sistemas.html", "destination": "/servicios/gestion-y-mantenimiento-de-sistemas", "permanent": true },
         { "source": "/desarrollo-de-soluciones-de-software.html", "destination": "/servicios/desarrollo-de-soluciones-de-software", "permanent": true },
