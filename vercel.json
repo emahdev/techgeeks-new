@@ -9,7 +9,7 @@
         { "source": "/servicios/control-inteligente", "destination": "/servicios/control-inteligente.html" },
         { "source": "/servicios/implementacion-de-soluciones-de-software", "destination": "/servicios/implementacion-de-soluciones-de-software.html" },
         { "source": "/servicios/asesoria-y-consultoria", "destination": "/servicios/asesoria-y-consultoria.html" },
-        { "source": "/(.*)", "destination": "/index.html" }
+        { "source": "/(.*)", "destination": "/404.html" }
     ],
     "cleanUrls": true,
     "trailingSlash": false
