@@ -1932,7 +1932,7 @@ input.main-search-input::placeholder {
 .offcanvas__wrapper .offcanvas__content .offcanvas__contact ul li {
   font-size: 16px;
   font-weight: 500;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 .offcanvas__wrapper .offcanvas__content .offcanvas__contact ul li:not(:last-child) {
   margin-bottom: 15px;
