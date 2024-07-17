@@ -2,6 +2,7 @@
     "rewrites": [
         { "source": "/nosotros", "destination": "/nosotros/" },
         { "source": "/servicios", "destination": "/servicios/" },
+        { "source": "/servicios/renta-venta-mantenimiento-equipos-computo", "destination": "/servicios/renta-venta-mantenimiento-equipos-computo.html" },        
         { "source": "/servicios/instalacion-y-mantenimiento-de-redes", "destination": "/servicios/instalacion-y-mantenimiento-de-redes.html" },
         { "source": "/servicios/gestion-y-mantenimiento-de-sistemas", "destination": "/servicios/gestion-y-mantenimiento-de-sistemas.html" },
         { "source": "/servicios/desarrollo-de-soluciones-de-software", "destination": "/servicios/desarrollo-de-soluciones-de-software.html" },
